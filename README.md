@@ -1,6 +1,8 @@
 # Issue reproduction
 
-This is a repository for reproducing issues.
+This is a repository for reproducing issues: https://github.com/spring-projects/spring-framework/issues/31819
+
+Note: the issue has been fixed
 
 # How to
 
